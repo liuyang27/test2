@@ -1,6 +1,6 @@
 ndciljmcigeli
 
-echo "# astartest" >> README.md
+echo "$$ astartest" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
